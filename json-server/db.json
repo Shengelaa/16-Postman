@@ -79,6 +79,16 @@
         "sami"
       ],
       "price": 11
+    },
+    {
+      "id": "8f7f",
+      "name": "MyPeperoni",
+      "ingredients": [
+        "Jansuga",
+        "ella",
+        "bella"
+      ],
+      "price": 9999
     }
   ],
   "sizes": [
