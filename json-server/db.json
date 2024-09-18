@@ -1,0 +1,123 @@
+{
+  "pizzas": [
+    {
+      "id": "1",
+      "name": "Pepperoni",
+      "ingredients": [
+        "Tomato Sauce",
+        "Mozzarella",
+        "Pepperoni"
+      ],
+      "price": 9.99
+    },
+    {
+      "id": "2",
+      "name": "Margherita",
+      "ingredients": [
+        "Tomato Sauce",
+        "Mozzarella",
+        "Basil"
+      ],
+      "price": 8.99
+    },
+    {
+      "id": "3",
+      "name": "Pepperoni2",
+      "ingredients": [
+        "Tomato Sauce",
+        "Mozzarella",
+        "Pepperoni"
+      ],
+      "price": 13
+    },
+    {
+      "id": "4",
+      "name": "Margherita2",
+      "ingredients": [
+        "Tomato Sauce",
+        "Mozzarella",
+        "Basil"
+      ],
+      "price": 14
+    },
+    {
+      "id": "5",
+      "name": "Pepperoni3",
+      "ingredients": [
+        "Tomato Sauce",
+        "Mozzarella",
+        "Pepperoni"
+      ],
+      "price": 11
+    },
+    {
+      "id": "6",
+      "name": "Margherita3",
+      "ingredients": [
+        "Tomato Sauce",
+        "Mozzarella",
+        "Basil"
+      ],
+      "price": 12
+    },
+    {
+      "id": "99f7",
+      "name": "dwadwad",
+      "ingredients": [
+        "erti",
+        "ori",
+        "sami"
+      ],
+      "price": 100
+    },
+    {
+      "id": "59aa",
+      "name": "dwad",
+      "ingredients": [
+        "erti",
+        "ori",
+        "sami"
+      ],
+      "price": 11
+    }
+  ],
+  "sizes": [
+    {
+      "id": "1",
+      "size": "Small"
+    },
+    {
+      "id": "2",
+      "size": "Medium"
+    },
+    {
+      "id": "3",
+      "size": "Large"
+    },
+    {
+      "id": "4",
+      "size": "Extra Large"
+    }
+  ],
+  "orders": [
+    {
+      "id": "ea4a",
+      "pizzaId": 1,
+      "size": "Large",
+      "address": "123 Pizza St, Pizzatown",
+      "status": "Pending"
+    }
+  ],
+  "discounts": [
+    {
+      "id": "1",
+      "name": "Buy One Get One Free",
+      "description": "Valid on Tuesdays only"
+    },
+    {
+      "id": "2",
+      "name": "10% Off Large Pizzas",
+      "description": "Use code LARGE10"
+    }
+  ]
+}
